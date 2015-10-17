@@ -21,7 +21,8 @@
 根据软件的提示输入用户邮箱，密码登陆，然后文件夹images里面就是你和朋友的照片啦
 
 
-2.如果你也是个软件狗，下载renrenDownloader.jar即可(压缩包里多出来的东西是java虚拟机你一定有的![](http://www.jincheng.link/resources/emotion/image_emoticon25.png))，在JAVA虚拟机上运行
+2.如果你也是个软件狗，下载renrenDownloader.jar即可(压缩包里多出来的东西是java虚拟机你一定有的
+![](http://www.jincheng.link/resources/emotion/image_emoticon25.png)，在JAVA虚拟机上运行
 
 
 -下载所有好友照片
